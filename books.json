@@ -1,0 +1,2762 @@
+[
+    {
+        "title":"Company of One",
+        "author":"Josh Kaufman",
+        "amount":51,
+        "book_id":1
+    },
+    {
+        "title":"Shoe Dog",
+        "author":"Michelle Obama",
+        "amount":25,
+        "book_id":2
+    },
+    {
+        "title":"The Da Vinci Code",
+        "author":"Paulo Coelho",
+        "amount":40,
+        "book_id":3
+    },
+    {
+        "title":"The Name of the Wind",
+        "author":"William Gibson",
+        "amount":30,
+        "book_id":4
+    },
+    {
+        "title":"Neuromancer",
+        "author":"George Orwell",
+        "amount":26,
+        "book_id":5
+    },
+    {
+        "title":"Master Your Emotions",
+        "author":"Spencer Johnson",
+        "amount":0,
+        "book_id":6
+    },
+    {
+        "title":"Atomic Habits",
+        "author":"Spencer Johnson",
+        "amount":17,
+        "book_id":7
+    },
+    {
+        "title":"Becoming",
+        "author":"Tara Westover",
+        "amount":22,
+        "book_id":8
+    },
+    {
+        "title":"The Three-Body Problem",
+        "author":"Isaac Asimov",
+        "amount":3,
+        "book_id":9
+    },
+    {
+        "title":"Dune",
+        "author":"J.R.R. Tolkien",
+        "amount":53,
+        "book_id":10
+    },
+    {
+        "title":"Principles",
+        "author":"Jim Collins",
+        "amount":39,
+        "book_id":11
+    },
+    {
+        "title":"Who Moved My Cheese?",
+        "author":"Ryan Holiday",
+        "amount":14,
+        "book_id":12
+    },
+    {
+        "title":"Einstein: His Life and Universe",
+        "author":"Tara Westover",
+        "amount":28,
+        "book_id":13
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People",
+        "author":"Ryan Holiday",
+        "amount":93,
+        "book_id":14
+    },
+    {
+        "title":"Where the Crawdads Sing",
+        "author":"Gillian Flynn",
+        "amount":3,
+        "book_id":15
+    },
+    {
+        "title":"Educated",
+        "author":"Ashlee Vance",
+        "amount":78,
+        "book_id":16
+    },
+    {
+        "title":"Good to Great",
+        "author":"Josh Kaufman",
+        "amount":66,
+        "book_id":17
+    },
+    {
+        "title":"The Great Gatsby",
+        "author":"Alex Michaelides",
+        "amount":47,
+        "book_id":18
+    },
+    {
+        "title":"The Alchemist",
+        "author":"Dan Brown",
+        "amount":63,
+        "book_id":19
+    },
+    {
+        "title":"Ego Is the Enemy",
+        "author":"Ryan Holiday",
+        "amount":22,
+        "book_id":20
+    },
+    {
+        "title":"Churchill: A Life",
+        "author":"Tara Westover",
+        "amount":9,
+        "book_id":21
+    },
+    {
+        "title":"The Hobbit",
+        "author":"Patrick Rothfuss",
+        "amount":27,
+        "book_id":22
+    },
+    {
+        "title":"Project Hail Mary",
+        "author":"William Gibson",
+        "amount":5,
+        "book_id":23
+    },
+    {
+        "title":"Guns, Germs, and Steel",
+        "author":"Martin Gilbert",
+        "amount":96,
+        "book_id":24
+    },
+    {
+        "title":"Foundation",
+        "author":"J.R.R. Tolkien",
+        "amount":56,
+        "book_id":25
+    },
+    {
+        "title":"Angels & Demons",
+        "author":"Alex Michaelides",
+        "amount":19,
+        "book_id":26
+    },
+    {
+        "title":"Crime and Punishment",
+        "author":"Harper Lee",
+        "amount":55,
+        "book_id":27
+    },
+    {
+        "title":"The Silent Patient",
+        "author":"Alex Michaelides",
+        "amount":41,
+        "book_id":28
+    },
+    {
+        "title":"The Lean Startup",
+        "author":"Benjamin Graham",
+        "amount":65,
+        "book_id":29
+    },
+    {
+        "title":"The Intelligent Investor",
+        "author":"Peter Thiel",
+        "amount":94,
+        "book_id":30
+    },
+    {
+        "title":"Can't Hurt Me",
+        "author":"William H. McRaven",
+        "amount":16,
+        "book_id":31
+    },
+    {
+        "title":"Deep Work",
+        "author":"David Goggins",
+        "amount":100,
+        "book_id":32
+    },
+    {
+        "title":"Fahrenheit 451",
+        "author":"Dan Simmons",
+        "amount":27,
+        "book_id":33
+    },
+    {
+        "title":"The Kite Runner",
+        "author":"F. Scott Fitzgerald",
+        "amount":58,
+        "book_id":34
+    },
+    {
+        "title":"The Psychology of Money",
+        "author":"Mike Michalowicz",
+        "amount":68,
+        "book_id":35
+    },
+    {
+        "title":"1984",
+        "author":"Frank Herbert",
+        "amount":8,
+        "book_id":36
+    },
+    {
+        "title":"Elon Musk",
+        "author":"Yuval Noah Harari",
+        "amount":2,
+        "book_id":37
+    },
+    {
+        "title":"The Personal MBA",
+        "author":"Paul Jarvis",
+        "amount":67,
+        "book_id":38
+    },
+    {
+        "title":"The Suburban Monk",
+        "author":"Thibaut Meurisse",
+        "amount":48,
+        "book_id":39
+    },
+    {
+        "title":"Hyperion",
+        "author":"William Gibson",
+        "amount":100,
+        "book_id":40
+    },
+    {
+        "title":"The Diary of a Young Girl",
+        "author":"Phil Knight",
+        "amount":77,
+        "book_id":41
+    },
+    {
+        "title":"Gone Girl",
+        "author":"Harper Lee",
+        "amount":49,
+        "book_id":42
+    },
+    {
+        "title":"Profit First",
+        "author":"Jim Collins",
+        "amount":74,
+        "book_id":43
+    },
+    {
+        "title":"To Kill a Mockingbird",
+        "author":"Alex Michaelides",
+        "amount":60,
+        "book_id":44
+    },
+    {
+        "title":"Elon Musk (Edition 4)",
+        "author":"Michelle Obama",
+        "amount":77,
+        "book_id":45
+    },
+    {
+        "title":"Angels & Demons (Edition 2)",
+        "author":"Gillian Flynn",
+        "amount":18,
+        "book_id":46
+    },
+    {
+        "title":"Steve Jobs (Edition 9)",
+        "author":"Martin Gilbert",
+        "amount":72,
+        "book_id":47
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 7)",
+        "author":"Paul Jarvis",
+        "amount":99,
+        "book_id":48
+    },
+    {
+        "title":"Principles (Edition 4)",
+        "author":"Morgan Housel",
+        "amount":56,
+        "book_id":49
+    },
+    {
+        "title":"The Da Vinci Code (Edition 1)",
+        "author":"Khaled Hosseini",
+        "amount":41,
+        "book_id":50
+    },
+    {
+        "title":"The Kite Runner (Edition 8)",
+        "author":"Dan Brown",
+        "amount":15,
+        "book_id":51
+    },
+    {
+        "title":"Elon Musk (Edition 6)",
+        "author":"Anne Frank",
+        "amount":88,
+        "book_id":52
+    },
+    {
+        "title":"Gone Girl (Edition 9)",
+        "author":"Gillian Flynn",
+        "amount":12,
+        "book_id":53
+    },
+    {
+        "title":"Zero to One (Edition 8)",
+        "author":"Josh Kaufman",
+        "amount":89,
+        "book_id":54
+    },
+    {
+        "title":"The Psychology of Money (Edition 3)",
+        "author":"Josh Kaufman",
+        "amount":39,
+        "book_id":55
+    },
+    {
+        "title":"The Alchemist (Edition 9)",
+        "author":"Alex Michaelides",
+        "amount":60,
+        "book_id":56
+    },
+    {
+        "title":"The Three-Body Problem (Edition 9)",
+        "author":"George Orwell",
+        "amount":86,
+        "book_id":57
+    },
+    {
+        "title":"Profit First (Edition 9)",
+        "author":"Josh Kaufman",
+        "amount":43,
+        "book_id":58
+    },
+    {
+        "title":"Master Your Emotions (Edition 2)",
+        "author":"Spencer Johnson",
+        "amount":12,
+        "book_id":59
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 3)",
+        "author":"Alex Michaelides",
+        "amount":48,
+        "book_id":60
+    },
+    {
+        "title":"The Personal MBA (Edition 9)",
+        "author":"Benjamin Graham",
+        "amount":42,
+        "book_id":61
+    },
+    {
+        "title":"Crime and Punishment (Edition 4)",
+        "author":"Harper Lee",
+        "amount":44,
+        "book_id":62
+    },
+    {
+        "title":"The Kite Runner (Edition 1)",
+        "author":"Khaled Hosseini",
+        "amount":60,
+        "book_id":63
+    },
+    {
+        "title":"The Lean Startup (Edition 4)",
+        "author":"Eric Ries",
+        "amount":29,
+        "book_id":64
+    },
+    {
+        "title":"The Intelligent Investor (Edition 5)",
+        "author":"Peter Thiel",
+        "amount":43,
+        "book_id":65
+    },
+    {
+        "title":"Hyperion (Edition 4)",
+        "author":"Frank Herbert",
+        "amount":76,
+        "book_id":66
+    },
+    {
+        "title":"The Three-Body Problem (Edition 5)",
+        "author":"Frank Herbert",
+        "amount":86,
+        "book_id":67
+    },
+    {
+        "title":"Mindset (Edition 3)",
+        "author":"William H. McRaven",
+        "amount":71,
+        "book_id":68
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 4)",
+        "author":"J.R.R. Tolkien",
+        "amount":77,
+        "book_id":69
+    },
+    {
+        "title":"Make Your Bed (Edition 6)",
+        "author":"Ryan Holiday",
+        "amount":30,
+        "book_id":70
+    },
+    {
+        "title":"Master Your Emotions (Edition 9)",
+        "author":"Robin Sharma",
+        "amount":28,
+        "book_id":71
+    },
+    {
+        "title":"Project Hail Mary (Edition 5)",
+        "author":"George Orwell",
+        "amount":66,
+        "book_id":72
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 2)",
+        "author":"Michelle Obama",
+        "amount":28,
+        "book_id":73
+    },
+    {
+        "title":"Project Hail Mary (Edition 9)",
+        "author":"Ray Bradbury",
+        "amount":8,
+        "book_id":74
+    },
+    {
+        "title":"The Lean Startup (Edition 5)",
+        "author":"Robert T. Kiyosaki",
+        "amount":82,
+        "book_id":75
+    },
+    {
+        "title":"Elon Musk (Edition 9)",
+        "author":"Jared Diamond",
+        "amount":51,
+        "book_id":76
+    },
+    {
+        "title":"Company of One (Edition 10)",
+        "author":"Benjamin Graham",
+        "amount":24,
+        "book_id":77
+    },
+    {
+        "title":"Hyperion (Edition 1)",
+        "author":"Dan Simmons",
+        "amount":71,
+        "book_id":78
+    },
+    {
+        "title":"Good to Great (Edition 1)",
+        "author":"Eric Ries",
+        "amount":76,
+        "book_id":79
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 3)",
+        "author":"Khaled Hosseini",
+        "amount":79,
+        "book_id":80
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 3)",
+        "author":"Frank Herbert",
+        "amount":4,
+        "book_id":81
+    },
+    {
+        "title":"The Name of the Wind (Edition 6)",
+        "author":"William Gibson",
+        "amount":12,
+        "book_id":82
+    },
+    {
+        "title":"The Suburban Monk (Edition 2)",
+        "author":"William H. McRaven",
+        "amount":68,
+        "book_id":83
+    },
+    {
+        "title":"Neuromancer (Edition 7)",
+        "author":"J.R.R. Tolkien",
+        "amount":9,
+        "book_id":84
+    },
+    {
+        "title":"Principles (Edition 9)",
+        "author":"Mike Michalowicz",
+        "amount":5,
+        "book_id":85
+    },
+    {
+        "title":"Shoe Dog (Edition 10)",
+        "author":"Anne Frank",
+        "amount":43,
+        "book_id":86
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 6)",
+        "author":"Khaled Hosseini",
+        "amount":13,
+        "book_id":87
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 1)",
+        "author":"Dan Brown",
+        "amount":92,
+        "book_id":88
+    },
+    {
+        "title":"Make Your Bed (Edition 7)",
+        "author":"Carol S. Dweck",
+        "amount":84,
+        "book_id":89
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 1)",
+        "author":"Alex Michaelides",
+        "amount":91,
+        "book_id":90
+    },
+    {
+        "title":"Make Your Bed (Edition 1)",
+        "author":"Stephen R. Covey",
+        "amount":59,
+        "book_id":91
+    },
+    {
+        "title":"Master Your Emotions (Edition 5)",
+        "author":"Robin Sharma",
+        "amount":36,
+        "book_id":92
+    },
+    {
+        "title":"Atomic Habits (Edition 10)",
+        "author":"Spencer Johnson",
+        "amount":58,
+        "book_id":93
+    },
+    {
+        "title":"Mindset (Edition 9)",
+        "author":"Stephen R. Covey",
+        "amount":11,
+        "book_id":94
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 8)",
+        "author":"Fyodor Dostoevsky",
+        "amount":16,
+        "book_id":95
+    },
+    {
+        "title":"Good to Great (Edition 5)",
+        "author":"Benjamin Graham",
+        "amount":4,
+        "book_id":96
+    },
+    {
+        "title":"Churchill: A Life (Edition 2)",
+        "author":"Jared Diamond",
+        "amount":7,
+        "book_id":97
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 10)",
+        "author":"Martin Gilbert",
+        "amount":19,
+        "book_id":98
+    },
+    {
+        "title":"The Great Gatsby (Edition 4)",
+        "author":"Khaled Hosseini",
+        "amount":83,
+        "book_id":99
+    },
+    {
+        "title":"Crime and Punishment (Edition 3)",
+        "author":"Gillian Flynn",
+        "amount":21,
+        "book_id":100
+    },
+    {
+        "title":"Elon Musk (Edition 1)",
+        "author":"Walter Isaacson",
+        "amount":27,
+        "book_id":101
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 4)",
+        "author":"Robert T. Kiyosaki",
+        "amount":63,
+        "book_id":102
+    },
+    {
+        "title":"Deep Work (Edition 9)",
+        "author":"David Goggins",
+        "amount":3,
+        "book_id":103
+    },
+    {
+        "title":"The Intelligent Investor (Edition 8)",
+        "author":"Jim Collins",
+        "amount":98,
+        "book_id":104
+    },
+    {
+        "title":"The Hobbit (Edition 1)",
+        "author":"J.R.R. Tolkien",
+        "amount":56,
+        "book_id":105
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 1)",
+        "author":"Martin Gilbert",
+        "amount":36,
+        "book_id":106
+    },
+    {
+        "title":"The Three-Body Problem (Edition 4)",
+        "author":"Cixin Liu",
+        "amount":67,
+        "book_id":107
+    },
+    {
+        "title":"Becoming (Edition 2)",
+        "author":"Phil Knight",
+        "amount":2,
+        "book_id":108
+    },
+    {
+        "title":"The Great Gatsby (Edition 10)",
+        "author":"Gillian Flynn",
+        "amount":46,
+        "book_id":109
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 5)",
+        "author":"James Clear",
+        "amount":44,
+        "book_id":110
+    },
+    {
+        "title":"Atomic Habits (Edition 6)",
+        "author":"Stephen R. Covey",
+        "amount":40,
+        "book_id":111
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 7)",
+        "author":"Martin Gilbert",
+        "amount":1,
+        "book_id":112
+    },
+    {
+        "title":"The Great Gatsby (Edition 5)",
+        "author":"Paulo Coelho",
+        "amount":10,
+        "book_id":113
+    },
+    {
+        "title":"The Name of the Wind (Edition 3)",
+        "author":"J.R.R. Tolkien",
+        "amount":32,
+        "book_id":114
+    },
+    {
+        "title":"Principles (Edition 10)",
+        "author":"Robert T. Kiyosaki",
+        "amount":66,
+        "book_id":115
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 8)",
+        "author":"Tara Westover",
+        "amount":60,
+        "book_id":116
+    },
+    {
+        "title":"Shoe Dog (Edition 4)",
+        "author":"Michelle Obama",
+        "amount":100,
+        "book_id":117
+    },
+    {
+        "title":"The Lean Startup (Edition 3)",
+        "author":"Morgan Housel",
+        "amount":45,
+        "book_id":118
+    },
+    {
+        "title":"1984 (Edition 3)",
+        "author":"Dan Simmons",
+        "amount":92,
+        "book_id":119
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 1)",
+        "author":"Martin Gilbert",
+        "amount":80,
+        "book_id":120
+    },
+    {
+        "title":"The Three-Body Problem (Edition 8)",
+        "author":"Patrick Rothfuss",
+        "amount":98,
+        "book_id":121
+    },
+    {
+        "title":"Zero to One (Edition 1)",
+        "author":"Josh Kaufman",
+        "amount":20,
+        "book_id":122
+    },
+    {
+        "title":"The Great Gatsby (Edition 7)",
+        "author":"Paulo Coelho",
+        "amount":1,
+        "book_id":123
+    },
+    {
+        "title":"The Lean Startup (Edition 8)",
+        "author":"Ray Dalio",
+        "amount":92,
+        "book_id":124
+    },
+    {
+        "title":"Master Your Emotions (Edition 7)",
+        "author":"Spencer Johnson",
+        "amount":45,
+        "book_id":125
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 6)",
+        "author":"George Orwell",
+        "amount":59,
+        "book_id":126
+    },
+    {
+        "title":"The Personal MBA (Edition 4)",
+        "author":"Robert T. Kiyosaki",
+        "amount":23,
+        "book_id":127
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 9)",
+        "author":"Mike Michalowicz",
+        "amount":53,
+        "book_id":128
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 6)",
+        "author":"David Goggins",
+        "amount":82,
+        "book_id":129
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 4)",
+        "author":"Yuval Noah Harari",
+        "amount":36,
+        "book_id":130
+    },
+    {
+        "title":"Educated (Edition 4)",
+        "author":"Tara Westover",
+        "amount":2,
+        "book_id":131
+    },
+    {
+        "title":"Angels & Demons (Edition 5)",
+        "author":"Paulo Coelho",
+        "amount":71,
+        "book_id":132
+    },
+    {
+        "title":"Neuromancer (Edition 10)",
+        "author":"Frank Herbert",
+        "amount":8,
+        "book_id":133
+    },
+    {
+        "title":"Crime and Punishment (Edition 7)",
+        "author":"F. Scott Fitzgerald",
+        "amount":18,
+        "book_id":134
+    },
+    {
+        "title":"The Suburban Monk (Edition 3)",
+        "author":"Cal Newport",
+        "amount":22,
+        "book_id":135
+    },
+    {
+        "title":"Neuromancer (Edition 9)",
+        "author":"Dan Simmons",
+        "amount":97,
+        "book_id":136
+    },
+    {
+        "title":"Becoming (Edition 10)",
+        "author":"Walter Isaacson",
+        "amount":42,
+        "book_id":137
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 9)",
+        "author":"Ashlee Vance",
+        "amount":54,
+        "book_id":138
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 1)",
+        "author":"Yuval Noah Harari",
+        "amount":39,
+        "book_id":139
+    },
+    {
+        "title":"Profit First (Edition 4)",
+        "author":"Ray Dalio",
+        "amount":42,
+        "book_id":140
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 9)",
+        "author":"Anne Frank",
+        "amount":92,
+        "book_id":141
+    },
+    {
+        "title":"Deep Work (Edition 10)",
+        "author":"Spencer Johnson",
+        "amount":47,
+        "book_id":142
+    },
+    {
+        "title":"The Kite Runner (Edition 5)",
+        "author":"F. Scott Fitzgerald",
+        "amount":9,
+        "book_id":143
+    },
+    {
+        "title":"The Da Vinci Code (Edition 7)",
+        "author":"Harper Lee",
+        "amount":83,
+        "book_id":144
+    },
+    {
+        "title":"Can't Hurt Me (Edition 4)",
+        "author":"Spencer Johnson",
+        "amount":77,
+        "book_id":145
+    },
+    {
+        "title":"Company of One (Edition 8)",
+        "author":"Morgan Housel",
+        "amount":16,
+        "book_id":146
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 5)",
+        "author":"Ray Dalio",
+        "amount":26,
+        "book_id":147
+    },
+    {
+        "title":"The Alchemist (Edition 5)",
+        "author":"Khaled Hosseini",
+        "amount":100,
+        "book_id":148
+    },
+    {
+        "title":"The Da Vinci Code (Edition 5)",
+        "author":"Gillian Flynn",
+        "amount":4,
+        "book_id":149
+    },
+    {
+        "title":"Hyperion (Edition 7)",
+        "author":"William Gibson",
+        "amount":76,
+        "book_id":150
+    },
+    {
+        "title":"Elon Musk (Edition 7)",
+        "author":"Yuval Noah Harari",
+        "amount":43,
+        "book_id":151
+    },
+    {
+        "title":"Make Your Bed (Edition 4)",
+        "author":"David Goggins",
+        "amount":53,
+        "book_id":152
+    },
+    {
+        "title":"Company of One (Edition 5)",
+        "author":"Robert T. Kiyosaki",
+        "amount":41,
+        "book_id":153
+    },
+    {
+        "title":"Principles (Edition 1)",
+        "author":"Morgan Housel",
+        "amount":7,
+        "book_id":154
+    },
+    {
+        "title":"Project Hail Mary (Edition 1)",
+        "author":"Cixin Liu",
+        "amount":83,
+        "book_id":155
+    },
+    {
+        "title":"The Suburban Monk (Edition 1)",
+        "author":"Thibaut Meurisse",
+        "amount":6,
+        "book_id":156
+    },
+    {
+        "title":"Mindset (Edition 7)",
+        "author":"Stephen R. Covey",
+        "amount":68,
+        "book_id":157
+    },
+    {
+        "title":"Atomic Habits (Edition 9)",
+        "author":"Carol S. Dweck",
+        "amount":63,
+        "book_id":158
+    },
+    {
+        "title":"Neuromancer (Edition 1)",
+        "author":"Cixin Liu",
+        "amount":80,
+        "book_id":159
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 5)",
+        "author":"Alex Michaelides",
+        "amount":20,
+        "book_id":160
+    },
+    {
+        "title":"Dune (Edition 7)",
+        "author":"William Gibson",
+        "amount":95,
+        "book_id":161
+    },
+    {
+        "title":"The Alchemist (Edition 8)",
+        "author":"Alex Michaelides",
+        "amount":74,
+        "book_id":162
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 7)",
+        "author":"Phil Knight",
+        "amount":94,
+        "book_id":163
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 6)",
+        "author":"Martin Gilbert",
+        "amount":96,
+        "book_id":164
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 4)",
+        "author":"Michelle Obama",
+        "amount":72,
+        "book_id":165
+    },
+    {
+        "title":"The Psychology of Money (Edition 5)",
+        "author":"Josh Kaufman",
+        "amount":71,
+        "book_id":166
+    },
+    {
+        "title":"Angels & Demons (Edition 4)",
+        "author":"Paulo Coelho",
+        "amount":92,
+        "book_id":167
+    },
+    {
+        "title":"1984 (Edition 5)",
+        "author":"Isaac Asimov",
+        "amount":48,
+        "book_id":168
+    },
+    {
+        "title":"Project Hail Mary (Edition 6)",
+        "author":"J.R.R. Tolkien",
+        "amount":3,
+        "book_id":169
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 3)",
+        "author":"Anne Frank",
+        "amount":85,
+        "book_id":170
+    },
+    {
+        "title":"The Intelligent Investor (Edition 9)",
+        "author":"Benjamin Graham",
+        "amount":98,
+        "book_id":171
+    },
+    {
+        "title":"The Name of the Wind (Edition 4)",
+        "author":"J.R.R. Tolkien",
+        "amount":49,
+        "book_id":172
+    },
+    {
+        "title":"Deep Work (Edition 2)",
+        "author":"Spencer Johnson",
+        "amount":46,
+        "book_id":173
+    },
+    {
+        "title":"Steve Jobs (Edition 8)",
+        "author":"Jared Diamond",
+        "amount":59,
+        "book_id":174
+    },
+    {
+        "title":"The Da Vinci Code (Edition 2)",
+        "author":"Gillian Flynn",
+        "amount":34,
+        "book_id":175
+    },
+    {
+        "title":"Profit First (Edition 5)",
+        "author":"Eric Ries",
+        "amount":4,
+        "book_id":176
+    },
+    {
+        "title":"Hyperion (Edition 6)",
+        "author":"William Gibson",
+        "amount":40,
+        "book_id":177
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 5)",
+        "author":"Isaac Asimov",
+        "amount":14,
+        "book_id":178
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 4)",
+        "author":"David Goggins",
+        "amount":85,
+        "book_id":179
+    },
+    {
+        "title":"Hyperion (Edition 9)",
+        "author":"J.R.R. Tolkien",
+        "amount":50,
+        "book_id":180
+    },
+    {
+        "title":"Profit First (Edition 10)",
+        "author":"Ray Dalio",
+        "amount":97,
+        "book_id":181
+    },
+    {
+        "title":"Atomic Habits (Edition 7)",
+        "author":"Stephen R. Covey",
+        "amount":2,
+        "book_id":182
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 8)",
+        "author":"Paul Jarvis",
+        "amount":4,
+        "book_id":183
+    },
+    {
+        "title":"Crime and Punishment (Edition 8)",
+        "author":"Khaled Hosseini",
+        "amount":95,
+        "book_id":184
+    },
+    {
+        "title":"The Psychology of Money (Edition 2)",
+        "author":"Eric Ries",
+        "amount":57,
+        "book_id":185
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 5)",
+        "author":"Ashlee Vance",
+        "amount":92,
+        "book_id":186
+    },
+    {
+        "title":"Hyperion (Edition 10)",
+        "author":"Dan Simmons",
+        "amount":73,
+        "book_id":187
+    },
+    {
+        "title":"1984 (Edition 10)",
+        "author":"Isaac Asimov",
+        "amount":96,
+        "book_id":188
+    },
+    {
+        "title":"Mindset (Edition 8)",
+        "author":"Ryan Holiday",
+        "amount":47,
+        "book_id":189
+    },
+    {
+        "title":"Angels & Demons (Edition 1)",
+        "author":"Dan Brown",
+        "amount":20,
+        "book_id":190
+    },
+    {
+        "title":"Steve Jobs (Edition 2)",
+        "author":"Martin Gilbert",
+        "amount":47,
+        "book_id":191
+    },
+    {
+        "title":"Project Hail Mary (Edition 3)",
+        "author":"Frank Herbert",
+        "amount":80,
+        "book_id":192
+    },
+    {
+        "title":"Profit First (Edition 1)",
+        "author":"Jim Collins",
+        "amount":39,
+        "book_id":193
+    },
+    {
+        "title":"Churchill: A Life (Edition 5)",
+        "author":"Yuval Noah Harari",
+        "amount":23,
+        "book_id":194
+    },
+    {
+        "title":"The Alchemist (Edition 4)",
+        "author":"Harper Lee",
+        "amount":6,
+        "book_id":195
+    },
+    {
+        "title":"Dune (Edition 8)",
+        "author":"Ray Bradbury",
+        "amount":38,
+        "book_id":196
+    },
+    {
+        "title":"Elon Musk (Edition 2)",
+        "author":"Michelle Obama",
+        "amount":1,
+        "book_id":197
+    },
+    {
+        "title":"The Intelligent Investor (Edition 4)",
+        "author":"Josh Kaufman",
+        "amount":37,
+        "book_id":198
+    },
+    {
+        "title":"The Great Gatsby (Edition 3)",
+        "author":"Gillian Flynn",
+        "amount":0,
+        "book_id":199
+    },
+    {
+        "title":"Steve Jobs (Edition 6)",
+        "author":"Phil Knight",
+        "amount":54,
+        "book_id":200
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 8)",
+        "author":"Ashlee Vance",
+        "amount":0,
+        "book_id":201
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 8)",
+        "author":"William H. McRaven",
+        "amount":1,
+        "book_id":202
+    },
+    {
+        "title":"The Silent Patient (Edition 4)",
+        "author":"Paulo Coelho",
+        "amount":39,
+        "book_id":203
+    },
+    {
+        "title":"Educated (Edition 10)",
+        "author":"Yuval Noah Harari",
+        "amount":49,
+        "book_id":204
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 2)",
+        "author":"Yuval Noah Harari",
+        "amount":26,
+        "book_id":205
+    },
+    {
+        "title":"Zero to One (Edition 7)",
+        "author":"Eric Ries",
+        "amount":21,
+        "book_id":206
+    },
+    {
+        "title":"The Personal MBA (Edition 3)",
+        "author":"Robert T. Kiyosaki",
+        "amount":6,
+        "book_id":207
+    },
+    {
+        "title":"1984 (Edition 7)",
+        "author":"Ray Bradbury",
+        "amount":0,
+        "book_id":208
+    },
+    {
+        "title":"Becoming (Edition 5)",
+        "author":"Walter Isaacson",
+        "amount":88,
+        "book_id":209
+    },
+    {
+        "title":"Foundation (Edition 9)",
+        "author":"Isaac Asimov",
+        "amount":36,
+        "book_id":210
+    },
+    {
+        "title":"Deep Work (Edition 4)",
+        "author":"Stephen R. Covey",
+        "amount":62,
+        "book_id":211
+    },
+    {
+        "title":"Project Hail Mary (Edition 4)",
+        "author":"Isaac Asimov",
+        "amount":60,
+        "book_id":212
+    },
+    {
+        "title":"Deep Work (Edition 1)",
+        "author":"Cal Newport",
+        "amount":36,
+        "book_id":213
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 7)",
+        "author":"Thibaut Meurisse",
+        "amount":21,
+        "book_id":214
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 3)",
+        "author":"Thibaut Meurisse",
+        "amount":74,
+        "book_id":215
+    },
+    {
+        "title":"The Personal MBA (Edition 7)",
+        "author":"Robert T. Kiyosaki",
+        "amount":65,
+        "book_id":216
+    },
+    {
+        "title":"The Psychology of Money (Edition 8)",
+        "author":"Paul Jarvis",
+        "amount":28,
+        "book_id":217
+    },
+    {
+        "title":"Churchill: A Life (Edition 1)",
+        "author":"Martin Gilbert",
+        "amount":14,
+        "book_id":218
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 7)",
+        "author":"Jared Diamond",
+        "amount":48,
+        "book_id":219
+    },
+    {
+        "title":"Good to Great (Edition 10)",
+        "author":"Josh Kaufman",
+        "amount":32,
+        "book_id":220
+    },
+    {
+        "title":"The Da Vinci Code (Edition 10)",
+        "author":"Fyodor Dostoevsky",
+        "amount":31,
+        "book_id":221
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 6)",
+        "author":"Martin Gilbert",
+        "amount":8,
+        "book_id":222
+    },
+    {
+        "title":"Zero to One (Edition 4)",
+        "author":"Mike Michalowicz",
+        "amount":54,
+        "book_id":223
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 10)",
+        "author":"David Goggins",
+        "amount":7,
+        "book_id":224
+    },
+    {
+        "title":"Steve Jobs (Edition 1)",
+        "author":"Walter Isaacson",
+        "amount":69,
+        "book_id":225
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 6)",
+        "author":"Anne Frank",
+        "amount":78,
+        "book_id":226
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 1)",
+        "author":"Martin Gilbert",
+        "amount":0,
+        "book_id":227
+    },
+    {
+        "title":"Foundation (Edition 8)",
+        "author":"Cixin Liu",
+        "amount":14,
+        "book_id":228
+    },
+    {
+        "title":"Atomic Habits (Edition 2)",
+        "author":"Carol S. Dweck",
+        "amount":88,
+        "book_id":229
+    },
+    {
+        "title":"Can't Hurt Me (Edition 1)",
+        "author":"David Goggins",
+        "amount":84,
+        "book_id":230
+    },
+    {
+        "title":"The Hobbit (Edition 6)",
+        "author":"Ray Bradbury",
+        "amount":56,
+        "book_id":231
+    },
+    {
+        "title":"The Silent Patient (Edition 8)",
+        "author":"Alex Michaelides",
+        "amount":65,
+        "book_id":232
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 7)",
+        "author":"Stephen R. Covey",
+        "amount":96,
+        "book_id":233
+    },
+    {
+        "title":"Atomic Habits (Edition 1)",
+        "author":"Cal Newport",
+        "amount":65,
+        "book_id":234
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 7)",
+        "author":"Stephen R. Covey",
+        "amount":85,
+        "book_id":235
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 8)",
+        "author":"Cal Newport",
+        "amount":65,
+        "book_id":236
+    },
+    {
+        "title":"Crime and Punishment (Edition 2)",
+        "author":"Dan Brown",
+        "amount":81,
+        "book_id":237
+    },
+    {
+        "title":"Gone Girl (Edition 3)",
+        "author":"Khaled Hosseini",
+        "amount":76,
+        "book_id":238
+    },
+    {
+        "title":"Project Hail Mary (Edition 10)",
+        "author":"Andy Weir",
+        "amount":96,
+        "book_id":239
+    },
+    {
+        "title":"Shoe Dog (Edition 2)",
+        "author":"Ashlee Vance",
+        "amount":83,
+        "book_id":240
+    },
+    {
+        "title":"Good to Great (Edition 4)",
+        "author":"Paul Jarvis",
+        "amount":29,
+        "book_id":241
+    },
+    {
+        "title":"Company of One (Edition 7)",
+        "author":"Jim Collins",
+        "amount":79,
+        "book_id":242
+    },
+    {
+        "title":"Project Hail Mary (Edition 7)",
+        "author":"Frank Herbert",
+        "amount":62,
+        "book_id":243
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 6)",
+        "author":"Morgan Housel",
+        "amount":12,
+        "book_id":244
+    },
+    {
+        "title":"Educated (Edition 6)",
+        "author":"Tara Westover",
+        "amount":27,
+        "book_id":245
+    },
+    {
+        "title":"The Suburban Monk (Edition 5)",
+        "author":"Robin Sharma",
+        "amount":77,
+        "book_id":246
+    },
+    {
+        "title":"Mindset (Edition 10)",
+        "author":"Carol S. Dweck",
+        "amount":87,
+        "book_id":247
+    },
+    {
+        "title":"Becoming (Edition 8)",
+        "author":"Jared Diamond",
+        "amount":96,
+        "book_id":248
+    },
+    {
+        "title":"Master Your Emotions (Edition 3)",
+        "author":"Ryan Holiday",
+        "amount":97,
+        "book_id":249
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 2)",
+        "author":"Anne Frank",
+        "amount":27,
+        "book_id":250
+    },
+    {
+        "title":"The Lean Startup (Edition 1)",
+        "author":"Paul Jarvis",
+        "amount":69,
+        "book_id":251
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 6)",
+        "author":"James Clear",
+        "amount":18,
+        "book_id":252
+    },
+    {
+        "title":"The Silent Patient (Edition 1)",
+        "author":"Alex Michaelides",
+        "amount":18,
+        "book_id":253
+    },
+    {
+        "title":"Becoming (Edition 9)",
+        "author":"Ashlee Vance",
+        "amount":37,
+        "book_id":254
+    },
+    {
+        "title":"Can't Hurt Me (Edition 6)",
+        "author":"James Clear",
+        "amount":9,
+        "book_id":255
+    },
+    {
+        "title":"The Suburban Monk (Edition 9)",
+        "author":"Stephen R. Covey",
+        "amount":25,
+        "book_id":256
+    },
+    {
+        "title":"Churchill: A Life (Edition 10)",
+        "author":"Jared Diamond",
+        "amount":90,
+        "book_id":257
+    },
+    {
+        "title":"Zero to One (Edition 9)",
+        "author":"Morgan Housel",
+        "amount":64,
+        "book_id":258
+    },
+    {
+        "title":"Educated (Edition 1)",
+        "author":"Tara Westover",
+        "amount":20,
+        "book_id":259
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 1)",
+        "author":"James Clear",
+        "amount":91,
+        "book_id":260
+    },
+    {
+        "title":"The Name of the Wind (Edition 9)",
+        "author":"William Gibson",
+        "amount":22,
+        "book_id":261
+    },
+    {
+        "title":"The Silent Patient (Edition 5)",
+        "author":"Khaled Hosseini",
+        "amount":93,
+        "book_id":262
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 1)",
+        "author":"William H. McRaven",
+        "amount":33,
+        "book_id":263
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 6)",
+        "author":"David Goggins",
+        "amount":62,
+        "book_id":264
+    },
+    {
+        "title":"Churchill: A Life (Edition 8)",
+        "author":"Walter Isaacson",
+        "amount":79,
+        "book_id":265
+    },
+    {
+        "title":"Foundation (Edition 7)",
+        "author":"Cixin Liu",
+        "amount":5,
+        "book_id":266
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 3)",
+        "author":"Michelle Obama",
+        "amount":21,
+        "book_id":267
+    },
+    {
+        "title":"The Hobbit (Edition 2)",
+        "author":"Patrick Rothfuss",
+        "amount":2,
+        "book_id":268
+    },
+    {
+        "title":"Mindset (Edition 1)",
+        "author":"Cal Newport",
+        "amount":11,
+        "book_id":269
+    },
+    {
+        "title":"The Alchemist (Edition 10)",
+        "author":"Khaled Hosseini",
+        "amount":63,
+        "book_id":270
+    },
+    {
+        "title":"The Three-Body Problem (Edition 7)",
+        "author":"George Orwell",
+        "amount":13,
+        "book_id":271
+    },
+    {
+        "title":"1984 (Edition 2)",
+        "author":"Isaac Asimov",
+        "amount":11,
+        "book_id":272
+    },
+    {
+        "title":"The Kite Runner (Edition 9)",
+        "author":"Khaled Hosseini",
+        "amount":38,
+        "book_id":273
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 10)",
+        "author":"Anne Frank",
+        "amount":74,
+        "book_id":274
+    },
+    {
+        "title":"The Suburban Monk (Edition 10)",
+        "author":"William H. McRaven",
+        "amount":69,
+        "book_id":275
+    },
+    {
+        "title":"Deep Work (Edition 6)",
+        "author":"Spencer Johnson",
+        "amount":73,
+        "book_id":276
+    },
+    {
+        "title":"Profit First (Edition 7)",
+        "author":"Paul Jarvis",
+        "amount":36,
+        "book_id":277
+    },
+    {
+        "title":"The Three-Body Problem (Edition 3)",
+        "author":"Andy Weir",
+        "amount":20,
+        "book_id":278
+    },
+    {
+        "title":"Churchill: A Life (Edition 7)",
+        "author":"Jared Diamond",
+        "amount":43,
+        "book_id":279
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 4)",
+        "author":"Robin Sharma",
+        "amount":42,
+        "book_id":280
+    },
+    {
+        "title":"Deep Work (Edition 5)",
+        "author":"Thibaut Meurisse",
+        "amount":8,
+        "book_id":281
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 6)",
+        "author":"F. Scott Fitzgerald",
+        "amount":41,
+        "book_id":282
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 4)",
+        "author":"Gillian Flynn",
+        "amount":60,
+        "book_id":283
+    },
+    {
+        "title":"1984 (Edition 9)",
+        "author":"Cixin Liu",
+        "amount":32,
+        "book_id":284
+    },
+    {
+        "title":"Steve Jobs (Edition 3)",
+        "author":"Michelle Obama",
+        "amount":97,
+        "book_id":285
+    },
+    {
+        "title":"Company of One (Edition 4)",
+        "author":"Eric Ries",
+        "amount":25,
+        "book_id":286
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 10)",
+        "author":"William H. McRaven",
+        "amount":70,
+        "book_id":287
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 8)",
+        "author":"Dan Brown",
+        "amount":10,
+        "book_id":288
+    },
+    {
+        "title":"The Hobbit (Edition 10)",
+        "author":"Frank Herbert",
+        "amount":33,
+        "book_id":289
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 2)",
+        "author":"James Clear",
+        "amount":70,
+        "book_id":290
+    },
+    {
+        "title":"Churchill: A Life (Edition 9)",
+        "author":"Walter Isaacson",
+        "amount":16,
+        "book_id":291
+    },
+    {
+        "title":"The Silent Patient (Edition 7)",
+        "author":"Khaled Hosseini",
+        "amount":0,
+        "book_id":292
+    },
+    {
+        "title":"Shoe Dog (Edition 8)",
+        "author":"Walter Isaacson",
+        "amount":81,
+        "book_id":293
+    },
+    {
+        "title":"1984 (Edition 1)",
+        "author":"Andy Weir",
+        "amount":68,
+        "book_id":294
+    },
+    {
+        "title":"Shoe Dog (Edition 5)",
+        "author":"Yuval Noah Harari",
+        "amount":26,
+        "book_id":295
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 2)",
+        "author":"Fyodor Dostoevsky",
+        "amount":71,
+        "book_id":296
+    },
+    {
+        "title":"Gone Girl (Edition 7)",
+        "author":"Dan Brown",
+        "amount":8,
+        "book_id":297
+    },
+    {
+        "title":"Profit First (Edition 8)",
+        "author":"Benjamin Graham",
+        "amount":9,
+        "book_id":298
+    },
+    {
+        "title":"The Alchemist (Edition 6)",
+        "author":"Dan Brown",
+        "amount":74,
+        "book_id":299
+    },
+    {
+        "title":"The Hobbit (Edition 5)",
+        "author":"Cixin Liu",
+        "amount":76,
+        "book_id":300
+    },
+    {
+        "title":"Hyperion (Edition 5)",
+        "author":"Isaac Asimov",
+        "amount":90,
+        "book_id":301
+    },
+    {
+        "title":"Foundation (Edition 3)",
+        "author":"J.R.R. Tolkien",
+        "amount":29,
+        "book_id":302
+    },
+    {
+        "title":"The Da Vinci Code (Edition 8)",
+        "author":"Khaled Hosseini",
+        "amount":81,
+        "book_id":303
+    },
+    {
+        "title":"Company of One (Edition 6)",
+        "author":"Paul Jarvis",
+        "amount":34,
+        "book_id":304
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 2)",
+        "author":"Paul Jarvis",
+        "amount":83,
+        "book_id":305
+    },
+    {
+        "title":"Angels & Demons (Edition 8)",
+        "author":"Harper Lee",
+        "amount":39,
+        "book_id":306
+    },
+    {
+        "title":"Foundation (Edition 6)",
+        "author":"Andy Weir",
+        "amount":37,
+        "book_id":307
+    },
+    {
+        "title":"The Name of the Wind (Edition 7)",
+        "author":"J.R.R. Tolkien",
+        "amount":49,
+        "book_id":308
+    },
+    {
+        "title":"Make Your Bed (Edition 5)",
+        "author":"Ryan Holiday",
+        "amount":100,
+        "book_id":309
+    },
+    {
+        "title":"The Suburban Monk (Edition 6)",
+        "author":"William H. McRaven",
+        "amount":22,
+        "book_id":310
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 9)",
+        "author":"Fyodor Dostoevsky",
+        "amount":31,
+        "book_id":311
+    },
+    {
+        "title":"Neuromancer (Edition 8)",
+        "author":"Dan Simmons",
+        "amount":16,
+        "book_id":312
+    },
+    {
+        "title":"The Psychology of Money (Edition 6)",
+        "author":"Robert T. Kiyosaki",
+        "amount":51,
+        "book_id":313
+    },
+    {
+        "title":"Zero to One (Edition 3)",
+        "author":"Mike Michalowicz",
+        "amount":90,
+        "book_id":314
+    },
+    {
+        "title":"Principles (Edition 6)",
+        "author":"Benjamin Graham",
+        "amount":0,
+        "book_id":315
+    },
+    {
+        "title":"Crime and Punishment (Edition 6)",
+        "author":"Harper Lee",
+        "amount":97,
+        "book_id":316
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 5)",
+        "author":"Robin Sharma",
+        "amount":53,
+        "book_id":317
+    },
+    {
+        "title":"The Psychology of Money (Edition 4)",
+        "author":"Peter Thiel",
+        "amount":53,
+        "book_id":318
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 9)",
+        "author":"Yuval Noah Harari",
+        "amount":77,
+        "book_id":319
+    },
+    {
+        "title":"Profit First (Edition 2)",
+        "author":"Benjamin Graham",
+        "amount":84,
+        "book_id":320
+    },
+    {
+        "title":"Dune (Edition 4)",
+        "author":"William Gibson",
+        "amount":83,
+        "book_id":321
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 8)",
+        "author":"Cal Newport",
+        "amount":87,
+        "book_id":322
+    },
+    {
+        "title":"Educated (Edition 9)",
+        "author":"Jared Diamond",
+        "amount":52,
+        "book_id":323
+    },
+    {
+        "title":"Becoming (Edition 7)",
+        "author":"Anne Frank",
+        "amount":97,
+        "book_id":324
+    },
+    {
+        "title":"Becoming (Edition 6)",
+        "author":"Jared Diamond",
+        "amount":80,
+        "book_id":325
+    },
+    {
+        "title":"Can't Hurt Me (Edition 7)",
+        "author":"Spencer Johnson",
+        "amount":2,
+        "book_id":326
+    },
+    {
+        "title":"Angels & Demons (Edition 9)",
+        "author":"Paulo Coelho",
+        "amount":6,
+        "book_id":327
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 10)",
+        "author":"F. Scott Fitzgerald",
+        "amount":39,
+        "book_id":328
+    },
+    {
+        "title":"Company of One (Edition 2)",
+        "author":"Morgan Housel",
+        "amount":86,
+        "book_id":329
+    },
+    {
+        "title":"The Silent Patient (Edition 2)",
+        "author":"Alex Michaelides",
+        "amount":91,
+        "book_id":330
+    },
+    {
+        "title":"Mindset (Edition 6)",
+        "author":"Carol S. Dweck",
+        "amount":14,
+        "book_id":331
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 9)",
+        "author":"Spencer Johnson",
+        "amount":0,
+        "book_id":332
+    },
+    {
+        "title":"The Name of the Wind (Edition 1)",
+        "author":"Isaac Asimov",
+        "amount":70,
+        "book_id":333
+    },
+    {
+        "title":"Dune (Edition 1)",
+        "author":"Frank Herbert",
+        "amount":1,
+        "book_id":334
+    },
+    {
+        "title":"Gone Girl (Edition 10)",
+        "author":"Alex Michaelides",
+        "amount":1,
+        "book_id":335
+    },
+    {
+        "title":"The Hobbit (Edition 4)",
+        "author":"Patrick Rothfuss",
+        "amount":23,
+        "book_id":336
+    },
+    {
+        "title":"Neuromancer (Edition 3)",
+        "author":"Patrick Rothfuss",
+        "amount":61,
+        "book_id":337
+    },
+    {
+        "title":"The Lean Startup (Edition 7)",
+        "author":"Morgan Housel",
+        "amount":91,
+        "book_id":338
+    },
+    {
+        "title":"Shoe Dog (Edition 7)",
+        "author":"Michelle Obama",
+        "amount":27,
+        "book_id":339
+    },
+    {
+        "title":"Dune (Edition 10)",
+        "author":"George Orwell",
+        "amount":83,
+        "book_id":340
+    },
+    {
+        "title":"Angels & Demons (Edition 7)",
+        "author":"Alex Michaelides",
+        "amount":66,
+        "book_id":341
+    },
+    {
+        "title":"The Great Gatsby (Edition 8)",
+        "author":"F. Scott Fitzgerald",
+        "amount":39,
+        "book_id":342
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 1)",
+        "author":"Ryan Holiday",
+        "amount":100,
+        "book_id":343
+    },
+    {
+        "title":"Good to Great (Edition 2)",
+        "author":"Morgan Housel",
+        "amount":78,
+        "book_id":344
+    },
+    {
+        "title":"The Three-Body Problem (Edition 6)",
+        "author":"J.R.R. Tolkien",
+        "amount":93,
+        "book_id":345
+    },
+    {
+        "title":"The Alchemist (Edition 7)",
+        "author":"Khaled Hosseini",
+        "amount":37,
+        "book_id":346
+    },
+    {
+        "title":"Master Your Emotions (Edition 8)",
+        "author":"James Clear",
+        "amount":62,
+        "book_id":347
+    },
+    {
+        "title":"Dune (Edition 2)",
+        "author":"J.R.R. Tolkien",
+        "amount":71,
+        "book_id":348
+    },
+    {
+        "title":"Neuromancer (Edition 4)",
+        "author":"William Gibson",
+        "amount":65,
+        "book_id":349
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 8)",
+        "author":"Patrick Rothfuss",
+        "amount":86,
+        "book_id":350
+    },
+    {
+        "title":"The Silent Patient (Edition 9)",
+        "author":"Fyodor Dostoevsky",
+        "amount":12,
+        "book_id":351
+    },
+    {
+        "title":"The Kite Runner (Edition 6)",
+        "author":"Alex Michaelides",
+        "amount":70,
+        "book_id":352
+    },
+    {
+        "title":"Steve Jobs (Edition 4)",
+        "author":"Phil Knight",
+        "amount":10,
+        "book_id":353
+    },
+    {
+        "title":"The Intelligent Investor (Edition 2)",
+        "author":"Paul Jarvis",
+        "amount":100,
+        "book_id":354
+    },
+    {
+        "title":"Steve Jobs (Edition 5)",
+        "author":"Walter Isaacson",
+        "amount":64,
+        "book_id":355
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 4)",
+        "author":"Gillian Flynn",
+        "amount":66,
+        "book_id":356
+    },
+    {
+        "title":"The Personal MBA (Edition 1)",
+        "author":"Mike Michalowicz",
+        "amount":14,
+        "book_id":357
+    },
+    {
+        "title":"The Great Gatsby (Edition 9)",
+        "author":"Paulo Coelho",
+        "amount":77,
+        "book_id":358
+    },
+    {
+        "title":"Elon Musk (Edition 3)",
+        "author":"Phil Knight",
+        "amount":41,
+        "book_id":359
+    },
+    {
+        "title":"Profit First (Edition 3)",
+        "author":"Robert T. Kiyosaki",
+        "amount":60,
+        "book_id":360
+    },
+    {
+        "title":"The Da Vinci Code (Edition 9)",
+        "author":"Khaled Hosseini",
+        "amount":90,
+        "book_id":361
+    },
+    {
+        "title":"The Personal MBA (Edition 10)",
+        "author":"Paul Jarvis",
+        "amount":93,
+        "book_id":362
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 9)",
+        "author":"Ashlee Vance",
+        "amount":34,
+        "book_id":363
+    },
+    {
+        "title":"The Great Gatsby (Edition 1)",
+        "author":"Fyodor Dostoevsky",
+        "amount":21,
+        "book_id":364
+    },
+    {
+        "title":"Make Your Bed (Edition 9)",
+        "author":"Ryan Holiday",
+        "amount":46,
+        "book_id":365
+    },
+    {
+        "title":"Churchill: A Life (Edition 4)",
+        "author":"Yuval Noah Harari",
+        "amount":52,
+        "book_id":366
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 9)",
+        "author":"David Goggins",
+        "amount":56,
+        "book_id":367
+    },
+    {
+        "title":"Project Hail Mary (Edition 2)",
+        "author":"William Gibson",
+        "amount":68,
+        "book_id":368
+    },
+    {
+        "title":"The 7 Habits of Highly Effective People (Edition 2)",
+        "author":"Spencer Johnson",
+        "amount":83,
+        "book_id":369
+    },
+    {
+        "title":"Zero to One (Edition 5)",
+        "author":"Josh Kaufman",
+        "amount":54,
+        "book_id":370
+    },
+    {
+        "title":"The Personal MBA (Edition 6)",
+        "author":"Paul Jarvis",
+        "amount":1,
+        "book_id":371
+    },
+    {
+        "title":"Educated (Edition 2)",
+        "author":"Tara Westover",
+        "amount":17,
+        "book_id":372
+    },
+    {
+        "title":"The Great Gatsby (Edition 2)",
+        "author":"Harper Lee",
+        "amount":69,
+        "book_id":373
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 5)",
+        "author":"David Goggins",
+        "amount":9,
+        "book_id":374
+    },
+    {
+        "title":"1984 (Edition 4)",
+        "author":"Cixin Liu",
+        "amount":15,
+        "book_id":375
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 5)",
+        "author":"Phil Knight",
+        "amount":12,
+        "book_id":376
+    },
+    {
+        "title":"Neuromancer (Edition 5)",
+        "author":"Patrick Rothfuss",
+        "amount":0,
+        "book_id":377
+    },
+    {
+        "title":"Master Your Emotions (Edition 6)",
+        "author":"Ryan Holiday",
+        "amount":43,
+        "book_id":378
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 5)",
+        "author":"Anne Frank",
+        "amount":79,
+        "book_id":379
+    },
+    {
+        "title":"Gone Girl (Edition 6)",
+        "author":"Harper Lee",
+        "amount":3,
+        "book_id":380
+    },
+    {
+        "title":"The Alchemist (Edition 3)",
+        "author":"Dan Brown",
+        "amount":82,
+        "book_id":381
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 9)",
+        "author":"William Gibson",
+        "amount":99,
+        "book_id":382
+    },
+    {
+        "title":"Good to Great (Edition 9)",
+        "author":"Benjamin Graham",
+        "amount":19,
+        "book_id":383
+    },
+    {
+        "title":"Foundation (Edition 2)",
+        "author":"Dan Simmons",
+        "amount":65,
+        "book_id":384
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 8)",
+        "author":"Phil Knight",
+        "amount":4,
+        "book_id":385
+    },
+    {
+        "title":"Can't Hurt Me (Edition 2)",
+        "author":"Robin Sharma",
+        "amount":59,
+        "book_id":386
+    },
+    {
+        "title":"Principles (Edition 2)",
+        "author":"Peter Thiel",
+        "amount":60,
+        "book_id":387
+    },
+    {
+        "title":"Good to Great (Edition 7)",
+        "author":"Josh Kaufman",
+        "amount":22,
+        "book_id":388
+    },
+    {
+        "title":"Atomic Habits (Edition 4)",
+        "author":"Thibaut Meurisse",
+        "amount":39,
+        "book_id":389
+    },
+    {
+        "title":"The Personal MBA (Edition 8)",
+        "author":"Peter Thiel",
+        "amount":8,
+        "book_id":390
+    },
+    {
+        "title":"Who Moved My Cheese? (Edition 10)",
+        "author":"William H. McRaven",
+        "amount":88,
+        "book_id":391
+    },
+    {
+        "title":"Zero to One (Edition 2)",
+        "author":"Peter Thiel",
+        "amount":49,
+        "book_id":392
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 2)",
+        "author":"J.R.R. Tolkien",
+        "amount":46,
+        "book_id":393
+    },
+    {
+        "title":"The Suburban Monk (Edition 8)",
+        "author":"William H. McRaven",
+        "amount":40,
+        "book_id":394
+    },
+    {
+        "title":"Atomic Habits (Edition 8)",
+        "author":"Spencer Johnson",
+        "amount":15,
+        "book_id":395
+    },
+    {
+        "title":"Educated (Edition 3)",
+        "author":"Michelle Obama",
+        "amount":4,
+        "book_id":396
+    },
+    {
+        "title":"Principles (Edition 8)",
+        "author":"Ray Dalio",
+        "amount":7,
+        "book_id":397
+    },
+    {
+        "title":"Einstein: His Life and Universe (Edition 10)",
+        "author":"Ashlee Vance",
+        "amount":90,
+        "book_id":398
+    },
+    {
+        "title":"Foundation (Edition 10)",
+        "author":"Isaac Asimov",
+        "amount":50,
+        "book_id":399
+    },
+    {
+        "title":"The Diary of a Young Girl (Edition 10)",
+        "author":"Martin Gilbert",
+        "amount":93,
+        "book_id":400
+    },
+    {
+        "title":"Elon Musk (Edition 8)",
+        "author":"Yuval Noah Harari",
+        "amount":42,
+        "book_id":401
+    },
+    {
+        "title":"The Kite Runner (Edition 7)",
+        "author":"Fyodor Dostoevsky",
+        "amount":84,
+        "book_id":402
+    },
+    {
+        "title":"The Personal MBA (Edition 5)",
+        "author":"Peter Thiel",
+        "amount":24,
+        "book_id":403
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 10)",
+        "author":"Paulo Coelho",
+        "amount":9,
+        "book_id":404
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 1)",
+        "author":"William Gibson",
+        "amount":9,
+        "book_id":405
+    },
+    {
+        "title":"Atomic Habits (Edition 3)",
+        "author":"Cal Newport",
+        "amount":25,
+        "book_id":406
+    },
+    {
+        "title":"Churchill: A Life (Edition 6)",
+        "author":"Tara Westover",
+        "amount":30,
+        "book_id":407
+    },
+    {
+        "title":"The Three-Body Problem (Edition 1)",
+        "author":"Patrick Rothfuss",
+        "amount":33,
+        "book_id":408
+    },
+    {
+        "title":"Atomic Habits (Edition 5)",
+        "author":"Spencer Johnson",
+        "amount":71,
+        "book_id":409
+    },
+    {
+        "title":"Can't Hurt Me (Edition 3)",
+        "author":"Carol S. Dweck",
+        "amount":36,
+        "book_id":410
+    },
+    {
+        "title":"Neuromancer (Edition 2)",
+        "author":"Ray Bradbury",
+        "amount":21,
+        "book_id":411
+    },
+    {
+        "title":"The Suburban Monk (Edition 4)",
+        "author":"Cal Newport",
+        "amount":73,
+        "book_id":412
+    },
+    {
+        "title":"Gone Girl (Edition 4)",
+        "author":"Khaled Hosseini",
+        "amount":59,
+        "book_id":413
+    },
+    {
+        "title":"The Name of the Wind (Edition 5)",
+        "author":"Frank Herbert",
+        "amount":90,
+        "book_id":414
+    },
+    {
+        "title":"Dune (Edition 6)",
+        "author":"George Orwell",
+        "amount":90,
+        "book_id":415
+    },
+    {
+        "title":"To Kill a Mockingbird (Edition 9)",
+        "author":"F. Scott Fitzgerald",
+        "amount":78,
+        "book_id":416
+    },
+    {
+        "title":"Make Your Bed (Edition 3)",
+        "author":"Spencer Johnson",
+        "amount":49,
+        "book_id":417
+    },
+    {
+        "title":"Can't Hurt Me (Edition 9)",
+        "author":"Cal Newport",
+        "amount":37,
+        "book_id":418
+    },
+    {
+        "title":"The Lean Startup (Edition 9)",
+        "author":"Peter Thiel",
+        "amount":85,
+        "book_id":419
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind (Edition 7)",
+        "author":"Michelle Obama",
+        "amount":27,
+        "book_id":420
+    },
+    {
+        "title":"Angels & Demons (Edition 3)",
+        "author":"Fyodor Dostoevsky",
+        "amount":75,
+        "book_id":421
+    },
+    {
+        "title":"The Silent Patient (Edition 6)",
+        "author":"Alex Michaelides",
+        "amount":78,
+        "book_id":422
+    },
+    {
+        "title":"Rich Dad Poor Dad (Edition 1)",
+        "author":"Peter Thiel",
+        "amount":90,
+        "book_id":423
+    },
+    {
+        "title":"Can't Hurt Me (Edition 10)",
+        "author":"Ryan Holiday",
+        "amount":87,
+        "book_id":424
+    },
+    {
+        "title":"The Lean Startup (Edition 10)",
+        "author":"Jim Collins",
+        "amount":12,
+        "book_id":425
+    },
+    {
+        "title":"Neuromancer (Edition 6)",
+        "author":"Dan Simmons",
+        "amount":95,
+        "book_id":426
+    },
+    {
+        "title":"Dune (Edition 9)",
+        "author":"Frank Herbert",
+        "amount":16,
+        "book_id":427
+    },
+    {
+        "title":"The Name of the Wind (Edition 10)",
+        "author":"Isaac Asimov",
+        "amount":52,
+        "book_id":428
+    },
+    {
+        "title":"Company of One (Edition 9)",
+        "author":"Paul Jarvis",
+        "amount":84,
+        "book_id":429
+    },
+    {
+        "title":"The Hobbit (Edition 9)",
+        "author":"Isaac Asimov",
+        "amount":7,
+        "book_id":430
+    },
+    {
+        "title":"The Alchemist (Edition 1)",
+        "author":"Alex Michaelides",
+        "amount":26,
+        "book_id":431
+    },
+    {
+        "title":"1984 (Edition 8)",
+        "author":"William Gibson",
+        "amount":100,
+        "book_id":432
+    },
+    {
+        "title":"Deep Work (Edition 8)",
+        "author":"Robin Sharma",
+        "amount":10,
+        "book_id":433
+    },
+    {
+        "title":"Master Your Emotions (Edition 4)",
+        "author":"Robin Sharma",
+        "amount":76,
+        "book_id":434
+    },
+    {
+        "title":"Foundation (Edition 4)",
+        "author":"William Gibson",
+        "amount":66,
+        "book_id":435
+    },
+    {
+        "title":"The Hobbit (Edition 3)",
+        "author":"Isaac Asimov",
+        "amount":69,
+        "book_id":436
+    },
+    {
+        "title":"The Lean Startup (Edition 6)",
+        "author":"Eric Ries",
+        "amount":64,
+        "book_id":437
+    },
+    {
+        "title":"Make Your Bed (Edition 10)",
+        "author":"William H. McRaven",
+        "amount":13,
+        "book_id":438
+    },
+    {
+        "title":"The Da Vinci Code (Edition 3)",
+        "author":"Dan Brown",
+        "amount":86,
+        "book_id":439
+    },
+    {
+        "title":"The Da Vinci Code (Edition 6)",
+        "author":"Harper Lee",
+        "amount":99,
+        "book_id":440
+    },
+    {
+        "title":"Principles (Edition 3)",
+        "author":"Peter Thiel",
+        "amount":0,
+        "book_id":441
+    },
+    {
+        "title":"Profit First (Edition 6)",
+        "author":"Eric Ries",
+        "amount":36,
+        "book_id":442
+    },
+    {
+        "title":"The Psychology of Money (Edition 1)",
+        "author":"Jim Collins",
+        "amount":80,
+        "book_id":443
+    },
+    {
+        "title":"Hyperion (Edition 3)",
+        "author":"Andy Weir",
+        "amount":97,
+        "book_id":444
+    },
+    {
+        "title":"The Psychology of Money (Edition 9)",
+        "author":"Mike Michalowicz",
+        "amount":39,
+        "book_id":445
+    },
+    {
+        "title":"Shoe Dog (Edition 3)",
+        "author":"Walter Isaacson",
+        "amount":32,
+        "book_id":446
+    },
+    {
+        "title":"The Suburban Monk (Edition 7)",
+        "author":"William H. McRaven",
+        "amount":19,
+        "book_id":447
+    },
+    {
+        "title":"Guns, Germs, and Steel (Edition 4)",
+        "author":"Michelle Obama",
+        "amount":74,
+        "book_id":448
+    },
+    {
+        "title":"The Intelligent Investor (Edition 1)",
+        "author":"Jim Collins",
+        "amount":27,
+        "book_id":449
+    },
+    {
+        "title":"Deep Work (Edition 3)",
+        "author":"Thibaut Meurisse",
+        "amount":56,
+        "book_id":450
+    },
+    {
+        "title":"The Kite Runner (Edition 10)",
+        "author":"Delia Owens",
+        "amount":37,
+        "book_id":451
+    },
+    {
+        "title":"Zero to One (Edition 6)",
+        "author":"Robert T. Kiyosaki",
+        "amount":20,
+        "book_id":452
+    },
+    {
+        "title":"Where the Crawdads Sing (Edition 7)",
+        "author":"Delia Owens",
+        "amount":49,
+        "book_id":453
+    },
+    {
+        "title":"Steve Jobs (Edition 10)",
+        "author":"Anne Frank",
+        "amount":66,
+        "book_id":454
+    },
+    {
+        "title":"The Silent Patient (Edition 10)",
+        "author":"Gillian Flynn",
+        "amount":93,
+        "book_id":455
+    },
+    {
+        "title":"Crime and Punishment (Edition 9)",
+        "author":"Gillian Flynn",
+        "amount":89,
+        "book_id":456
+    },
+    {
+        "title":"Fahrenheit 451 (Edition 10)",
+        "author":"Patrick Rothfuss",
+        "amount":39,
+        "book_id":457
+    },
+    {
+        "title":"Ego Is the Enemy (Edition 4)",
+        "author":"James Clear",
+        "amount":81,
+        "book_id":458
+    },
+    {
+        "title":"Foundation (Edition 1)",
+        "author":"Andy Weir",
+        "amount":10,
+        "book_id":459
+    },
+    {
+        "title":"The Kite Runner (Edition 3)",
+        "author":"Harper Lee",
+        "amount":51,
+        "book_id":460
+    }
+]
