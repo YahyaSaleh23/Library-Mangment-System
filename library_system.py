@@ -32,7 +32,7 @@ class Library:
         book = pd.DataFrame([book])
         #adding book_id
         book_id = int(books['book_id'].iloc[-1]) 
-        book = {'book_id': book_id+1, **book} # (| data) also correct if you python 3.9 or higher 
+        book = {'book_id': book_id+1, **book} # (| data) also correct if you're using Python 3.9 or higher
         books = pd.concat([books,book], ignore_index=True)
         books.to_json('books.json', orient='records', indent=4)
 
