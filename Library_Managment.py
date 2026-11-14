@@ -2,6 +2,7 @@ from library_system import *
 from pandas import concat , read_json
 from email_validator import validate_email
 from phonenumbers import parse, is_valid_number
+from hashlib import md5
 users = read_json("users.json")
 
 def name_check(name):
@@ -46,9 +47,9 @@ def phone_number_check(phone_number):
              # in case the user inputs an invalid country code or an invalid number or phone_number
              return 2 
 
+def register(name, username, password, email, phone_number=None):
 
-
-def sign_in(user,password):
-    if '@' in user:
-        data = users[user["email"] == user]
-        print(data)
+        if phone_number == None:
+             Client(name,username,password,email,phone_number="None")
+        else: 
+             Client(name,username,password,email,phone_number)

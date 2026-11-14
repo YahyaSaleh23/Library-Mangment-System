@@ -20,9 +20,10 @@ while is_running:
                     print("that's not a real name")
                     continue
                 else:
+                        name = f"{first_name} {last_name}" # combine first and last name together
                         username = input("enter your username: ").strip()
                         if not user_check(username):
-                                print("your username less then 3")
+                                print("your username less than 3")
                                 continue
                         else:
                             password = input("enter your password: ")
@@ -30,12 +31,22 @@ while is_running:
                                     print("Your password is less than 8 characters")
                                     continue
                             else:
+                                hashed_password = md5(password.encode("utf-8")).hexdigest()
                                 email = input("enter your email: ").strip()
                                 if not email_check(email):
                                         print("This email is not valid")
                                 else:                
                                     phone_number = input("enter your phone_number(optional): ").strip()
                                     if len(phone_number) != 0:
-                                          phone_number_check(phone_number)
+                                          is_real_number = phone_number_check(phone_number)
+                                          if is_real_number == 2:
+                                                print("Please enter real number and check your country  code")
+                                                continue
+                                          elif not is_real_number:
+                                                print("this number invalid")
+                                          else:
+                                                 register(name,username,hashed_password,email,phone_number)
+                                                 is_login = True
                                     else:
-                                          pass
+                                          register(name,username,hashed_password,email)
+                                          is_login = True
