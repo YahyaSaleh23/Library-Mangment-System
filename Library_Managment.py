@@ -17,6 +17,7 @@ def user_check(username):
         return True
     else:
         return False
+    
 
 
 def password_check(password):
@@ -26,11 +27,12 @@ def password_check(password):
         return False
 
 def email_check(email):
-    is_email = validate_email(email)
-    if is_email:
-        return True
-    else:
-        return False
+    try:
+        is_email = validate_email(email)
+        if is_email:
+            return True
+    except:
+         return False
 
 def phone_number_check(phone_number):
         try:
@@ -47,9 +49,41 @@ def phone_number_check(phone_number):
              # in case the user inputs an invalid country code or an invalid number or phone_number
              return 2 
 
-def register(name, username, password, email, phone_number=None):
+def input_loop(prompt,check,error,transform):
+       while True:
+                user_input = transform(input(prompt))
+                if check(user_input):
+                        return user_input
+                else:
+                        print(error)
 
-        if phone_number == None:
-             Client(name,username,password,email,phone_number="None")
-        else: 
-             Client(name,username,password,email,phone_number)
+def signup():
+        first_name = input_loop("enter your first name: ",name_check,"that's not a real name", lambda user_input: user_input.strip().capitalize())
+        last_name = input_loop("enter your last name: ",name_check,"that's not a real name", lambda user_input: user_input.strip().capitalize())
+        name = f"{first_name} {last_name}" # combine first and last name together
+        username = input_loop("enter your username: ",user_check,"your username less than 3", str.strip)
+        password = input_loop("enter your password: ",password_check,"Your password is less than 8 characters", str.strip)
+        hashed_password = md5(password.encode("utf-8")).hexdigest()
+        email = input_loop("enter your email: ",email_check,"This email is not valid",str.strip)
+
+        while True:
+                    phone_number = input("enter your phone_number(optional): ").strip()
+                    if len(phone_number) != 0:
+                            is_real_number = phone_number_check(phone_number)
+                            if is_real_number == 2:
+                                print("Please enter real number and check your country  code")
+                                continue
+                            elif not is_real_number:
+                                print("this number invalid")
+                                continue
+                            else:
+                                    user = Client(name,username,hashed_password,email,phone_number).__dict__
+                                    Library.add_user(user)
+                                    break
+
+                    # if user dont want enter his phone number
+                    else: 
+                            user = Client(name,username,hashed_password,email,phone_number="None").__dict__
+                            Library.add_user(user)
+                            break
+                         
