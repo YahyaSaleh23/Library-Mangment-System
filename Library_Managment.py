@@ -86,4 +86,32 @@ def signup():
                             user = Client(name,username,hashed_password,email,phone_number="None").__dict__
                             Library.add_user(user)
                             break
-                         
+
+def is_available(user,password):
+      if len(user) != 0 and password == user['password'].iloc[0]:
+            return True
+      else:
+            return False
+
+def signin():
+            while True:
+                        user = input("enter your username or email: ").strip()
+                        password = (md5(input("enter your password: ").rstrip().encode('utf-8')).hexdigest())
+                        if '@' in user and user[0] != '@':
+                                user = users[users['email'] == user]
+                                if is_available(user, password):
+                                        print("Welcome back!")
+                                        return True
+                                else:
+                                        print("Invalid username or password. Please try again.")
+                                        continue
+                        else:
+                                user = users[users['username'] == user]
+                                if is_available(user, password):
+                                        print("Welcome back!")
+                                        return True
+                                        
+                                else:
+                                        print("Invalid username or password. Please try again.")
+                                        continue
+

@@ -10,8 +10,8 @@ while is_running:
         is_sign = input("Are you new here(Y/N)?").lower().strip()
 
         if  is_sign == "n":
-            user = input("enter your username or email: ").strip()
-            password = input("enter your password: ")
+            signin()
+            is_login = True
         elif is_sign == "y":
             signup()
             is_login = True
