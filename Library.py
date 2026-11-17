@@ -16,4 +16,4 @@ while is_running:
             signup()
             is_login = True
     else:
-        pass
+        user_interface()

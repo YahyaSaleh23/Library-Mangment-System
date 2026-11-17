@@ -3,8 +3,7 @@ from pandas import concat , read_json
 from email_validator import validate_email
 from phonenumbers import parse, is_valid_number
 from hashlib import md5
-users = read_json("users.json")
-
+import config 
 def name_check(name):
     if len(name) >= 2:
         return True
@@ -61,13 +60,13 @@ def signup():
         first_name = input_loop("enter your first name: ",name_check,"that's not a real name", lambda user_input: user_input.strip().capitalize())
         last_name = input_loop("enter your last name: ",name_check,"that's not a real name", lambda user_input: user_input.strip().capitalize())
         name = f"{first_name} {last_name}" # combine first and last name together
-        username = input_loop("enter your username: ",user_check,"your username less than 3", str.strip)
+        username = input_loop("enter your username: ",user_check,"your username is less than 3", str.strip)
         password = input_loop("enter your password: ",password_check,"Your password is less than 8 characters", str.strip)
         hashed_password = md5(password.encode("utf-8")).hexdigest()
         email = input_loop("enter your email: ",email_check,"This email is not valid",str.strip)
 
         while True:
-                    phone_number = input("enter your phone_number(optional): ").strip()
+                    phone_number = input("enter your phone number(optional): ").strip()
                     if len(phone_number) != 0:
                             is_real_number = phone_number_check(phone_number)
                             if is_real_number == 2:
@@ -81,7 +80,7 @@ def signup():
                                     Library.add_user(user)
                                     break
 
-                    # if user dont want enter his phone number
+                    # if user don't want enter his phone number
                     else: 
                             user = Client(name,username,hashed_password,email,phone_number="None").__dict__
                             Library.add_user(user)
@@ -98,20 +97,48 @@ def signin():
                         user = input("enter your username or email: ").strip()
                         password = (md5(input("enter your password: ").rstrip().encode('utf-8')).hexdigest())
                         if '@' in user and user[0] != '@':
-                                user = users[users['email'] == user]
-                                if is_available(user, password):
-                                        print("Welcome back!")
+                                config.user_data = config.users[config.users['email'] == user]
+                                if is_available(config.user_data, password):
                                         return True
                                 else:
                                         print("Invalid username or password. Please try again.")
                                         continue
                         else:
-                                user = users[users['username'] == user]
-                                if is_available(user, password):
-                                        print("Welcome back!")
+                                config.user_data = config.users[config.users['username'] == user]
+                                if is_available(config.user_data, password):
                                         return True
                                         
                                 else:
                                         print("Invalid username or password. Please try again.")
                                         continue
 
+def user_interface():
+    name = config.user_data['name'].iloc[0]
+    print(f"welecome {name} what we can help you with")
+    while True:
+            print("""
+                    =================================================
+                    1-borrow book
+                    2-get back the borrowed book
+                    3-add book
+                    4-return book
+                    5-exit
+                    """)
+            choice = input("please enter your choice: ")
+
+            match choice:
+                case '1':
+                        book = input("Which book do you want: ")
+                        book_match = Library.search(book)
+                        authors = []
+                        for book in book_match:
+                            book_data = config.books[config.books['title'] == book]
+                            authors.append(book_data['author'].iloc[0])
+
+                        for result in range(6): # the method i used return 6 matched results 
+                            print(f"\n{result + 1}-")
+                            print(f"Title: {book_match[result]}")
+                            print(f"Author: {authors[result]} ")
+                        print("7- get back")
+                        search_result = input("\n which one do you mean: " )
+                        
